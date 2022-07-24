@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/nawazsiddiqui27" target="blank"><img src="https://img.shields.io/twitter/follow/nawazsiddiqui27?logo=twitter&style=for-the-badge" alt="nawazsiddiqui27" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps** and **web-development**
 
 - 📝 I regularly write articles on [https://nawazsiddiqui.hashnode.dev/](https://nawazsiddiqui.hashnode.dev/)
 
-- 💬 Ask me about **AWS, Docker and Kubernetes**
+- 💬 Ask me about **Javascript and React**
 
 - 📫 How to reach me **nawazsiddiqui27@gmail.com**
 
