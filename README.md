@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Nawaz Siddiqui</h1>
-<h3 align="center">A Backend developer and DevOps enthusiast from India</h3>
+<h3 align="center">A Backend developer and DevOps enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/nawazsiddiqui27" target="blank"><img src="https://img.shields.io/twitter/follow/nawazsiddiqui27?logo=twitter&style=for-the-badge" alt="nawazsiddiqui27" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://nawazsiddiqui.hashnode.dev/](https://nawazsiddiqui.hashnode.dev/)
 
-- 💬 Ask me about **Javascript and React**
+- 💬 Ask me about **Javas and Springboot**
 
 - 📫 How to reach me **nawazsiddiqui27@gmail.com**
 
